@@ -21,3 +21,6 @@ Pull the image from Docker Hub:
 ```bash
 docker pull mariammohamed9/my-go-app
 ```
+
+
+You can also view the image on Docker Hub: https://hub.docker.com/r/mariammohamed9/my-go-app
